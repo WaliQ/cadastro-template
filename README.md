@@ -11,7 +11,7 @@ npm install
 # criar um servidor local para testes em localhost:8080
 npm run dev
 
-# compilar projeto para produção com codigo minificado
+# compilar projeto para produção com código minificado
 npm run build
 
 # build for production and view the bundle analyzer report

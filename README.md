@@ -1,6 +1,6 @@
 # cadastro
 
-> Template para ínicio do desenvolvimento de um formulário de cadastro simples
+> Template para início do desenvolvimento de um formulário de cadastro simples
 
 ## Build Setup
 

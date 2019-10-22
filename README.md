@@ -1,6 +1,8 @@
-# cadastro
+# Cadastro
 
-> Template para início do desenvolvimento de um formulário de cadastro simples
+Template para início do desenvolvimento de um formulário de cadastro simples.
+
+> Curso "Introdução ao Laravel com vue.js" ministrado na XI edição do [simSIS](http://www.sisftc.com.br/simsis/) (Simpósio de Sistemas de Informação) 23 de maio de 2018.
 
 ## Build Setup
 
